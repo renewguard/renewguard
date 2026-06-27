@@ -228,4 +228,4 @@ export const FOOTER_LINKS = {
     { label: 'Terms of Service', href: '#' },
     { label: 'Data Processing', href: '#' },
   ],
-} as const;
+} ;
