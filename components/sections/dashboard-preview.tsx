@@ -7,7 +7,7 @@ import { fadeUp, viewportOnce } from '@/lib/animations';
 import { DashboardShell } from '@/components/dashboard/dashboard-shell';
 import { ComplianceGauge } from '@/components/dashboard/compliance-gauge';
 import { RenewalsList } from '@/components/dashboard/renewals-list';
-import { MiniCalendar } from '@/components/dashboard/mini-calendar';
+import { MiniCalendar } from "@/components/dashboard/mini-calendar";
 import { EmployeeStatus } from '@/components/dashboard/employee-status';
 import { NotificationsFeed } from '@/components/dashboard/notifications-feed';
 import { AnalyticsCard } from '@/components/dashboard/analytics-card';
