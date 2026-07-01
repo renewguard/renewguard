@@ -27,7 +27,7 @@ export function FinalCTA() {
               Be first in line when LapseGuard launches.
             </h2>
             <p className="mx-auto mt-4 max-w-xl text-balance text-lg text-ink-300">
-              Join the waitlist now and we'll reach out personally as soon as early access opens.
+              Join the waitlist now and we&apos;ll reach out personally as soon as early access opens.
             </p>
             <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
               <Button size="lg" className="group" asChild>
